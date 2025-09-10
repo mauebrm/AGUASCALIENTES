@@ -104,7 +104,7 @@ var config = {
       description: "",
       location: {
         center: [-102.30596, 21.89440],
-        zoom: 12.3,
+        zoom: 12,
         pitch: 0,
         bearing: 0,
         duration: 6000
@@ -121,7 +121,7 @@ var config = {
       description: "Aproximadamente 42.4 km",
       location: {
         center: [-102.30596, 21.89440],
-        zoom: 11.8,
+        zoom: 11.5,
         pitch: 0,
         bearing: 0,
         duration: 3000
@@ -151,7 +151,7 @@ var config = {
     },
     {
       id: "chap-6",
-      title: "AVENIDAS PRICIPALES",
+      title: "AVENIDAS PRINCIPALES",
       image: "https://github.com/mauebrm/AGUASCALIENTES/blob/main/trafico-vehicular-Magda-696x464.jpg?raw=true",
       description: "",
       location: {
@@ -482,6 +482,7 @@ var config = {
     // ... Remaining chapters unchanged
   ]
 };
+
 
 
 
