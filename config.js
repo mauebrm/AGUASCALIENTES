@@ -135,7 +135,7 @@ var config = {
       id: "chap-4",
       title: "CORREDOR",
       image: "https://cdn.glitch.global/2a3ffa3c-0397-4f7e-845c-566d78d6a35b/52378598462_82cf6aac02_b.jpg?v=1747936955347",
-      description: "Asunción, the capital of Paraguay, is home to around 525,000 people.",
+      description: "",
       location: {
         center: [-102.30596, 21.89440],
         zoom: 12,
@@ -153,7 +153,7 @@ var config = {
       id: "chap-6",
       title: "AVENIDAS PRICIPALES",
       image: "https://github.com/mauebrm/AGUASCALIENTES/blob/main/trafico-vehicular-Magda-696x464.jpg?raw=true",
-      description: "Just 15 minutes from Asunción’s international airport.",
+      description: "",
       location: {
         center: [-102.30596, 21.89440],
         zoom: 12.3,
@@ -175,7 +175,7 @@ var config = {
       id: "chap-6.1",
       title: "SECUNDARIAS",
       image: "https://cdn.glitch.global/2a3ffa3c-0397-4f7e-845c-566d78d6a35b/5-1920x1280.jpg?v=1747936552207",
-      description: "Just 15 minutes from Asunción’s international airport.",
+      description: "",
       location: {
         center: [-102.30596, 21.89440],
         zoom: 12.5,
@@ -214,7 +214,7 @@ var config = {
       id: "IC2",
       title: "IC1",
       image: "https://github.com/mauebrm/AGUASCALIENTES/blob/main/Screenshot%202025-09-07%20165917.png?raw=true",
-      description: "The urban valley.",
+      description: "",
       location: {
         center: [-102.32299, 21.84306],
         zoom: 15.5,
@@ -231,7 +231,7 @@ var config = {
       id: "chap-8",
       title: "IC2",
       image: "https://github.com/mauebrm/AGUASCALIENTES/blob/main/Screenshot%202025-09-07%20165917.png?raw=true",
-      description: "Where experiences converge.",
+      description: "",
       location: {
         center: [-102.30164, 21.84525],
         zoom: 16,
@@ -250,7 +250,7 @@ var config = {
       id: "chap-9",
       title: "C3",
       image: "https://github.com/mauebrm/AGUASCALIENTES/blob/main/Screenshot%202025-09-06%20202844.png?raw=true",
-      description: "50,000 m² of commercial areas.",
+      description: "",
       location: {
         center: [-102.29370, 21.84463], // fixed
         zoom: 17,
@@ -265,7 +265,7 @@ var config = {
       id: "Ameba",
       title: "C4",
       image: "https://github.com/mauebrm/AGUASCALIENTES/blob/main/Screenshot%202025-09-06%20202859.png?raw=true",
-      description: "First residential buildings - 60 to 433 m2 - 100% sold",
+      description: "",
       location: {
         center: [-102.29054, 21.84489],
         zoom: 17.56,
@@ -284,7 +284,7 @@ var config = {
       id: "X",
       title: "C5",
       image: "https://github.com/mauebrm/AGUASCALIENTES/blob/main/Screenshot%202025-09-06%20202913.png?raw=true",
-      description: "First residential buildings - 60 to 433 m2 - 100% sold",
+      description: "",
       location: {
         center:[-102.28087, 21.84660],
         zoom: 17.56,
@@ -303,7 +303,7 @@ var config = {
       id: "chap-11",
       title: "C6",
       image: "https://github.com/mauebrm/AGUASCALIENTES/blob/main/nissan-mexicana-logra-su-produccion-de-dos-millones-de-unidades-utilizando-energias-renovables-9245.jpeg?raw=true",
-      description: "Residential tower R2 detail.",
+      description: "",
       location: {
         center: [-102.26953, 21.85184],
         zoom: 17.71,
@@ -333,7 +333,7 @@ var config = {
       id: "chap-13",
       title: "C8",
       image: "https://github.com/mauebrm/AGUASCALIENTES/blob/main/Screenshot%202025-09-07%20170024.png?raw=true",
-      description: "R4 BULNESIA - 15% SOLD",
+      description: "",
       location: {
         center:[-102.24824, 21.86261],
        zoom: 16.82,
@@ -348,7 +348,7 @@ var config = {
       id: "chap-14",
       title: "C9",
       image: "https://github.com/mauebrm/AGUASCALIENTES/blob/main/Screenshot%202025-09-06%20202949.png?raw=true",
-      description: "R5 - CURRENTLY ON DESIGN - 120 Apartaments",
+      description: "",
       location: {
         center: [-102.24587, 21.87324],
        zoom: 16.82,
@@ -363,7 +363,7 @@ var config = {
       id: "chap-15",
       title: "C10",
       image: "https://github.com/mauebrm/AGUASCALIENTES/blob/main/Screenshot%202025-09-06%20203006.png?raw=true",
-      description: "R5 - CURRENTLY ON DESIGN - 120 Apartaments",
+      description: "",
       location: {
         center: [-102.24821, 21.87959],
        zoom: 16.82,
@@ -378,7 +378,7 @@ var config = {
       id: "chap-16",
       title: "C11",
       image: "https://github.com/mauebrm/AGUASCALIENTES/blob/main/Screenshot%202025-09-07%20170042.png?raw=true",
-      description: "R5 - CURRENTLY ON DESIGN - 120 Apartaments",
+      description: "",
       location: {
         center: [-102.25119, 21.88715],
        zoom: 16.82,
@@ -393,7 +393,7 @@ var config = {
       id: "chap-17",
       title: "C12",
       image: "https://github.com/mauebrm/AGUASCALIENTES/blob/main/Screenshot%202025-09-06%20203028.png?raw=true",
-      description: "R5 - CURRENTLY ON DESIGN - 120 Apartaments",
+      description: "",
       location: {
         center: [-102.25363, 21.89344],
        zoom: 16.82,
@@ -408,7 +408,7 @@ var config = {
       id: "chap-18",
       title: "C13",
       image: "https://github.com/mauebrm/AGUASCALIENTES/blob/main/Screenshot%202025-09-06%20203044.png?raw=true",
-      description: "R5 - CURRENTLY ON DESIGN - 120 Apartaments",
+      description: "",
       location: {
         center: [-102.25369, 21.90002],
        zoom: 16.82,
@@ -423,7 +423,7 @@ var config = {
       id: "chap-19",
       title: "C14",
       image: "https://github.com/mauebrm/AGUASCALIENTES/blob/main/Screenshot%202025-09-06%20203102.png?raw=true",
-      description: "R5 - CURRENTLY ON DESIGN - 120 Apartaments",
+      description: "",
       location: {
         center: [-102.25700, 21.90706],
        zoom: 16.82,
@@ -438,7 +438,7 @@ var config = {
       id: "chap-20",
       title: "C15",
       image: "https://github.com/mauebrm/AGUASCALIENTES/blob/main/Screenshot%202025-09-07%20170042.png?raw=true",
-      description: "R5 - CURRENTLY ON DESIGN - 120 Apartaments",
+      description: "",
       location: {
         center: [-102.27884, 21.94152],
        zoom: 16.82,
@@ -453,7 +453,7 @@ var config = {
       id: "chap-21",
       title: "C16",
       image: "https://github.com/mauebrm/AGUASCALIENTES/blob/main/Screenshot%202025-09-07%20170042.png?raw=true",
-      description: "R5 - CURRENTLY ON DESIGN - 120 Apartaments",
+      description: "",
       location: {
         center: [-102.32420, 21.95062],
        zoom: 16.82,
@@ -468,7 +468,7 @@ var config = {
       id: "chap-22",
       title: "C17",
       image: "https://github.com/mauebrm/AGUASCALIENTES/blob/main/Screenshot%202025-09-07%20170042.png?raw=true",
-      description: "R5 - CURRENTLY ON DESIGN - 120 Apartaments",
+      description: "",
       location: {
         center: [-102.33842, 21.95405],
        zoom: 16.82,
@@ -482,4 +482,5 @@ var config = {
     // ... Remaining chapters unchanged
   ]
 };
+
 
