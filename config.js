@@ -16,7 +16,7 @@ var config = {
       id: "chap-1",
       title: "CORREDOR SIGLO XX1",
       image: "https://github.com/mauebrm/AGUASCALIENTES/blob/main/Screenshot%202025-09-07%20170030.png?raw=true",
-      description: "",
+      description: "Sistema Integrado de Transporte Metropolitano” en la ciudad de Aguascalientes, Ags",
       location: {
         center: [-102.04567, 21.90594],
         zoom: 4,
@@ -482,6 +482,7 @@ var config = {
     // ... Remaining chapters unchanged
   ]
 };
+
 
 
 
