@@ -14,7 +14,7 @@ var config = {
   chapters: [
     {
       id: "chap-1",
-      title: "MEXICO",
+      title: "CORREDOR SIGLO XX1",
       image: "https://github.com/mauebrm/AGUASCALIENTES/blob/main/Screenshot%202025-09-07%20170030.png?raw=true",
       description: "",
       location: {
@@ -482,3 +482,4 @@ var config = {
     // ... Remaining chapters unchanged
   ]
 };
+
