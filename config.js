@@ -138,7 +138,7 @@ var config = {
       description: "Se construirán 110 paraderos a lo largo del trazo de la ruta troncal ubicados en promedio a 500 metros de distancia entre paraderos",
       location: {
         center: [-102.30596, 21.89440],
-        zoom: 12,
+        zoom: 11,
         pitch: 0,
         bearing: 0,
         duration: 6000
@@ -482,6 +482,7 @@ var config = {
     // ... Remaining chapters unchanged
   ]
 };
+
 
 
 
