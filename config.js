@@ -118,7 +118,7 @@ var config = {
       id: "chap-4.8",
       title: "TERCER ANILLO",
       image: "https://github.com/mauebrm/AGUASCALIENTES/blob/main/tercer%20anillo.jpeg?raw=true",
-      description: "",
+      description: "Aproximadamente 42.4 km",
       location: {
         center: [-102.30596, 21.89440],
         zoom: 11.8,
@@ -134,8 +134,8 @@ var config = {
     {
       id: "chap-4",
       title: "CORREDOR",
-      image: "https://cdn.glitch.global/2a3ffa3c-0397-4f7e-845c-566d78d6a35b/52378598462_82cf6aac02_b.jpg?v=1747936955347",
-      description: "",
+      image: "https://github.com/mauebrm/AGUASCALIENTES/blob/main/Screenshot%202025-09-07%20170036.png?raw=true",
+      description: "Se construirán 110 paraderos a lo largo del trazo de la ruta troncal ubicados en promedio a 500 metros de distancia entre paraderos",
       location: {
         center: [-102.30596, 21.89440],
         zoom: 12,
@@ -174,7 +174,7 @@ var config = {
         {
       id: "chap-6.1",
       title: "SECUNDARIAS",
-      image: "https://cdn.glitch.global/2a3ffa3c-0397-4f7e-845c-566d78d6a35b/5-1920x1280.jpg?v=1747936552207",
+      image: "https://github.com/mauebrm/AGUASCALIENTES/blob/main/av-aguascalientes-y-av-universidad-ASC_0774.jpg?raw=true",
       description: "",
       location: {
         center: [-102.30596, 21.89440],
@@ -482,5 +482,6 @@ var config = {
     // ... Remaining chapters unchanged
   ]
 };
+
 
 
