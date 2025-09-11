@@ -135,7 +135,7 @@ var config = {
     },
     {
       id: "chap-6",
-      title: "AVENIDAS PRINCIPALES",
+      title: "AVENIDAS PRINCIPALES - INTERSECCIONES PRIMARIAS",
       image: "https://github.com/mauebrm/AGUASCALIENTES/blob/main/trafico-vehicular-Magda-696x464.jpg?raw=true",
       description: "",
       location: {
@@ -157,7 +157,7 @@ var config = {
     },
         {
       id: "chap-6.1",
-      title: "SECUNDARIAS",
+      title: "INTERSECCIONES SECUNDARIAS",
       image: "https://github.com/mauebrm/AGUASCALIENTES/blob/main/av-aguascalientes-y-av-universidad-ASC_0774.jpg?raw=true",
       description: "",
       location: {
@@ -466,6 +466,7 @@ var config = {
     // ... Remaining chapters unchanged
   ]
 };
+
 
 
 
