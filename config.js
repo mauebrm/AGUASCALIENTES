@@ -133,8 +133,8 @@ var config = {
     },
     {
       id: "chap-4",
-      title: "CORREDOR",
-      image: "https://github.com/mauebrm/AGUASCALIENTES/blob/main/Screenshot%202025-09-07%20170036.png?raw=true",
+      title: "TERCER ANILLO - CORREDOR SIGLO XXI",
+      image: "https://github.com/mauebrm/AGUASCALIENTES/blob/main/tercer%20anillo.jpeg?raw=true",
       description: "Se construirán 110 paraderos a lo largo del trazo de la ruta troncal ubicados en promedio a 500 metros de distancia entre paraderos",
       location: {
         center: [-102.30596, 21.89440],
@@ -145,7 +145,8 @@ var config = {
       },
       onChapterEnter: [
         { layer: "PARAD", opacity: 0.8 },
-                { layer: "CORR", opacity: 0.8 }
+                { layer: "CORR", opacity: 0.8 },
+        { layer: "CORR1", opacity: 0.8 }
       ],
       onChapterExit: []
     },
@@ -482,6 +483,7 @@ var config = {
     // ... Remaining chapters unchanged
   ]
 };
+
 
 
 
