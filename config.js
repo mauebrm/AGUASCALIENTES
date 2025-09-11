@@ -114,23 +114,6 @@ var config = {
       ],
       onChapterExit: []
     },
-        {
-      id: "chap-4.8",
-      title: "TERCER ANILLO",
-      image: "https://github.com/mauebrm/AGUASCALIENTES/blob/main/tercer%20anillo.jpeg?raw=true",
-      description: "Aproximadamente 42.4 km",
-      location: {
-        center: [-102.30596, 21.89440],
-        zoom: 11.5,
-        pitch: 0,
-        bearing: 0,
-        duration: 3000
-      },
-      onChapterEnter: [
-        { layer: "CORR1", opacity: 0.8 }
-      ],
-      onChapterExit: []
-    },
     {
       id: "chap-4",
       title: "TERCER ANILLO - CORREDOR SIGLO XXI",
@@ -483,6 +466,7 @@ var config = {
     // ... Remaining chapters unchanged
   ]
 };
+
 
 
 
