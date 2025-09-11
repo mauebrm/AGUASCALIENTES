@@ -179,7 +179,7 @@ var config = {
     },
     {
       id: "chap-6.4",
-      title: "UTA ",
+      title: "UTA - Universidad Tecnológica de Aguascalientes",
       image: "https://github.com/mauebrm/AGUASCALIENTES/blob/main/65avion.jpg?raw=true",
       description: "",
       location: {
@@ -466,6 +466,7 @@ var config = {
     // ... Remaining chapters unchanged
   ]
 };
+
 
 
 
